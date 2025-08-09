@@ -25,17 +25,13 @@ Linked Hazard Categories – From electrical safety to working at heights.
 
 📂 Files in this Repository ( I have uploaded only the PDF and JPEG of the preview of Dataset and Dashboard. Original Excel file available on request)
 
-Dashboard preview
+Dashboard:
+PDF: https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-2-HIRA---Industrial-Health-and-Safety-/blob/main/Anaya-K1%20Github%20Excel%202%20Dashboard%20-%20HIRA%20(Industrial%20Safety).pdf
+JPEG: https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-2-HIRA---Industrial-Health-and-Safety-/blob/main/Anaya-K1%20Github%20Excel%202%20Dashboard%20-%20HIRA%20(Industrial%20Safety)jpg.jpg
 
-PDF Anaya-K1 Github Excel 2 Dashboard - HIRA (Industrial Safety).pdf
-JPEG Anaya-K1 Github Excel 2 Dashboard - HIRA (Industrial Safety)jpg.jpg
-
-
-Dataset review
-
-PDF Anaya-K1 Github Excel 2 Dataset - HIRA (Industrial Safety) .pdf
-JPEG Anaya-K1 Github Excel 2 Dataset - HIRA (Industrial Safety) jpg.jpg
-
+DATASET:
+PDF: https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-2-HIRA---Industrial-Health-and-Safety-/blob/main/Anaya-K1%20Github%20Excel%202%20Dataset%20-%20HIRA%20(Industrial%20Safety)%20.pdf
+JPEG: https://github.com/Anaya-K1/Anaya-K---Excel-Data-Analysis-2-HIRA---Industrial-Health-and-Safety-/blob/main/Anaya-K1%20Github%20Excel%202%20Dataset%20-%20HIRA%20(Industrial%20Safety)%20jpg.jpg
 
 
 🚧 Use Case
